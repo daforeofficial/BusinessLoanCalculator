@@ -11753,7 +11753,7 @@
         e.r(t), t.default = {
             LT_WWW_URL: "https://outsourcecapital.com/",
             // Get Free Offer
-            LT_WWW_SPITTER_URL: "https://outsourcecapital.com/business-loan-form",
+            LT_WWW_SPITTER_URL: "https://outsourcecapital.com/business-loan-form/",
             MYLT_URL: "https://outsourcecapital.com/"
         }
     }, function (n, t, e) {
